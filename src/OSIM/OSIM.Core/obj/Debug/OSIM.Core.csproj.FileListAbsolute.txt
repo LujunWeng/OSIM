@@ -1,0 +1,5 @@
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.csprojResolveAssemblyReference.cache
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.pdb

@@ -1,0 +1,10 @@
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\OSIM.UnitTests.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\OSIM.UnitTests.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\obj\Debug\OSIM.UnitTests.csprojResolveAssemblyReference.cache
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\obj\Debug\OSIM.UnitTests.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\obj\Debug\OSIM.UnitTests.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\NBehave.Spec.NUnit.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\nunit.framework.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Rhino.Mocks.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\nunit.framework.xml
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Rhino.Mocks.xml

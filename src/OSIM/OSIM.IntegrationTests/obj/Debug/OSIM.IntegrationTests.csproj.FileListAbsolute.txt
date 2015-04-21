@@ -1,0 +1,5 @@
+D:\DevProjects\OSIM\src\OSIM\OSIM.IntegrationTests\bin\Debug\OSIM.IntegrationTests.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.IntegrationTests\bin\Debug\OSIM.IntegrationTests.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.IntegrationTests\obj\Debug\OSIM.IntegrationTests.csprojResolveAssemblyReference.cache
+D:\DevProjects\OSIM\src\OSIM\OSIM.IntegrationTests\obj\Debug\OSIM.IntegrationTests.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.IntegrationTests\obj\Debug\OSIM.IntegrationTests.pdb
