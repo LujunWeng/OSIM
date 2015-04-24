@@ -9,7 +9,19 @@ using System.Threading.Tasks;
 namespace OSIM.UnitTests
 {
     [TestFixture]
-    public class Specification : SpecBase
+    public class Specification
     {
+        [TestFixtureSetUp]
+        protected virtual void Establish_context()
+        {
+        }
+        [SetUp]
+        protected virtual void Because_of()
+        {
+        }
+        [TestFixtureTearDown]
+        protected virtual void Cleanup()
+        {
+        }
     }
 }

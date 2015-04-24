@@ -8,3 +8,11 @@ D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\nunit.framework.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Rhino.Mocks.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\nunit.framework.xml
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Rhino.Mocks.xml
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\OSIM.Core.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\OSIM.Core.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Iesi.Collections.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Moq.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\NHibernate.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Iesi.Collections.xml
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Moq.xml
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\NHibernate.xml

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OSIM.Core.Entities
 {
-    class Person
+    public class ItemType
     {
+        public virtual int Id { get; set; }
     }
 }
