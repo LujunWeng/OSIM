@@ -63,6 +63,12 @@ namespace OSIM.UnitTests.OSIM.Core
     {
         private Exception _result;
 
+        protected override void Establish_context()
+        {
+            base.Establish_context();
+
+            session.Setup(s => s.Save(null)).Throws(new ArgumentNullException());
+        }
         protected override void Because_of()
         {
             try
@@ -82,4 +88,34 @@ namespace OSIM.UnitTests.OSIM.Core
             _result.ShouldBeInstanceOfType(typeof(ArgumentNullException));
         }
     }
+
+    public class and_getting_a_item_type_by_id :
+        when_working_with_the_item_type_repository
+    {
+        private ItemType _testItemType;
+        private ItemType _validResult;
+        private ItemType _invalidResult;
+
+        protected override void Establish_context()
+        {
+            base.Establish_context();
+            _testItemType = new ItemType();
+            var randomNumberGenerator = new Random();
+            _testItemType.Id = randomNumberGenerator.Next(32000);
+            session.Setup(s => s.Get<ItemType>(_testItemType.Id)).Returns(_testItemType);
+        }
+        protected override void Because_of()
+        {
+            _validResult = _itemTypeRepository.GetById(_testItemType.Id);
+            _invalidResult = _itemTypeRepository.GetById(_testItemType.Id - 1);
+        }
+
+        [Test]
+        public void then_a_valid_item_type_should_be_return()
+        {
+            _validResult.Id.ShouldEqual(_testItemType.Id);
+            _invalidResult.ShouldBeNull();
+        }
+    }
+
 }
