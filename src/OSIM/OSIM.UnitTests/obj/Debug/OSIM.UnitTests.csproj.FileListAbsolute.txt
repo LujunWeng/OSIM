@@ -16,3 +16,5 @@ D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\NHibernate.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Iesi.Collections.xml
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\Moq.xml
 D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\NHibernate.xml
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\FluentNHibernate.dll
+D:\DevProjects\OSIM\src\OSIM\OSIM.UnitTests\bin\Debug\FluentNHibernate.xml

@@ -68,7 +68,8 @@ namespace OSIM.UnitTests.OSIM.Core
             base.Establish_context();
 
             session.Setup(s => s.Save(null)).Throws(new ArgumentNullException());
-        }
+        }
+
         protected override void Because_of()
         {
             try
