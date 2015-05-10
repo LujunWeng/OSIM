@@ -1,137 +1,137 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="Antlr 3.4.1.9004" Category="Package" Bounds="1058.36333333333,171.47,117.023333333333,27.1566666666667" Label="Antlr 3.4.1.9004" />
-    <Node Id="EntityFramework 6.1.1" Category="Package" Bounds="1437.205,114.313333333334,157.34,27.1566666666667" Label="EntityFramework 6.1.1" />
-    <Node Id="FluentNHibernate 1.4.0.0" Category="Package" Bounds="196.943150148354,396.249836376572,174.47885279981,27.1566666674285" Label="FluentNHibernate 1.4.0.0" UseManualLocation="True" />
-    <Node Id="Iesi.Collections 3.2.0.4000" Category="Package" Bounds="153.886671651204,516.608422579223,178.773333333333,27.1566666666666" Label="Iesi.Collections 3.2.0.4000" />
-    <Node Id="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package" Bounds="1905.37,114.313333333334,245.01,27.1566666666667" Label="Microsoft.AspNet.Identity.Core 2.1.0" />
-    <Node Id="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Category="Package" Bounds="1817.83833333333,57.1565666666668,320.073333333334,27.1566666666667" Label="Microsoft.AspNet.Identity.EntityFramework 2.1.0" />
-    <Node Id="Microsoft.AspNet.Identity.Owin 2.1.0" Category="Package" Bounds="2199.85666666667,57.1565166666669,248.036666666667,27.1566666666667" Label="Microsoft.AspNet.Identity.Owin 2.1.0" />
-    <Node Id="Microsoft.AspNet.Mvc 5.2.2" Category="Package" Bounds="614.338333333333,57.156666666667,191.073333333333,27.1566666666667" Label="Microsoft.AspNet.Mvc 5.2.2" />
-    <Node Id="Microsoft.AspNet.Razor 3.2.2" Category="Package" Bounds="514.713333333333,171.47,200.323333333333,27.1566666666667" Label="Microsoft.AspNet.Razor 3.2.2" />
-    <Node Id="Microsoft.AspNet.Web.Optimization 1.1.3" Category="Package" Bounds="835.841666666667,57.156666666667,278.066666666667,27.1566666666667" Label="Microsoft.AspNet.Web.Optimization 1.1.3" />
-    <Node Id="Microsoft.AspNet.WebPages 3.2.2" Category="Package" Bounds="645.48,114.313333333334,230.79,27.1566666666667" Label="Microsoft.AspNet.WebPages 3.2.2" />
-    <Node Id="Microsoft.Owin 3.0.0" Category="Package" Bounds="2520.89,228.626816666667,147.97,27.1566666666667" Label="Microsoft.Owin 3.0.0" />
-    <Node Id="Microsoft.Owin.Host.SystemWeb 3.0.0" Category="Package" Bounds="2690.31666666667,171.47,257.116666666667,27.1566666666667" Label="Microsoft.Owin.Host.SystemWeb 3.0.0" />
-    <Node Id="Microsoft.Owin.Security 3.0.0" Category="Package" Bounds="2363.54666666667,171.47005,200.656666666667,27.1566666666667" Label="Microsoft.Owin.Security 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.Cookies 3.0.0" Category="Package" Bounds="2180.405,114.313283333334,252.94,27.1566666666666" Label="Microsoft.Owin.Security.Cookies 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.Facebook 3.0.0" Category="Package" Bounds="2495.03333333333,114.313333333334,263.683333333333,27.1566666666666" Label="Microsoft.Owin.Security.Facebook 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.Google 3.0.0" Category="Package" Bounds="1625.30833333333,114.313333333334,249.133333333333,27.1566666666667" Label="Microsoft.Owin.Security.Google 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Category="Package" Bounds="1092.55666666667,114.313333333334,314.636666666667,27.1566666666667" Label="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.OAuth 3.0.0" Category="Package" Bounds="2789.68333333333,114.313333333334,244.383333333333,27.1566666666666" Label="Microsoft.Owin.Security.OAuth 3.0.0" />
-    <Node Id="Microsoft.Owin.Security.Twitter 3.0.0" Category="Package" Bounds="3064.38,114.313333333333,246.99,27.1566666666667" Label="Microsoft.Owin.Security.Twitter 3.0.0" />
-    <Node Id="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package" Bounds="785.640000000001,171.47,242.47,27.1566666666667" Label="Microsoft.Web.Infrastructure 1.0.0.0" />
-    <Node Id="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Category="Package" Bounds="281.898333333334,57.156666666667,301.953333333333,27.1566666666667" Label="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" />
-    <Node Id="Modernizr 2.6.2" Category="Package" Bounds="2478.16333333333,57.1566666666668,117.423333333333,27.1566666666667" Label="Modernizr 2.6.2" />
-    <Node Id="Moq 4.2.1402.2112" Category="Package" Bounds="752.898333333333,457.253333333334,138.75,27.1566666666666" Label="Moq 4.2.1402.2112" />
-    <Node Id="NHibernate 3.3.3.4001" Category="Package" Bounds="163.901679280599,459.451655912557,158.743333333333,27.1566666666666" Label="NHibernate 3.3.3.4001" />
-    <Node Id="NUnit 2.6.2" Category="Package" Bounds="591.49,514.410000000001,89.5666666666667,27.1566666666666" Label="NUnit 2.6.2" />
-    <Node Id="NUnitTestAdapter 2.0.0" Category="Package" Bounds="353.576666666667,457.253333333334,165.393333333333,27.1566666666666" Label="NUnitTestAdapter 2.0.0" />
-    <Node Id="Newtonsoft.Json 6.0.4" Category="Package" Bounds="2176.625,171.4701,156.5,27.1566666666667" Label="Newtonsoft.Json 6.0.4" />
-    <Node Id="Ninject 3.2.2.0" Category="Package" Bounds="25.2816659291585,459.451655912557,107.983333333333,27.1566666666666" Label="Ninject 3.2.2.0" />
-    <Node Id="OSIM.Core" Category="Project" Bounds="232.749997355143,339.093069710286,87.0466666666667,27.1566666666667" Label="OSIM.Core" />
-    <Node Id="OSIM.IntegrationTests" Category="Project" Bounds="-2.6448567780335E-06,345.138122579223,158.546666666667,27.1566666666667" Label="OSIM.IntegrationTests" />
-    <Node Id="OSIM.UnitTests" Category="Project" Bounds="445.387028035986,355.033002264142,115.473333333333,27.1566666666667" Label="OSIM.UnitTests" UseManualLocation="True" />
-    <Node Id="OSIM.WebClinet" Category="Project" Bounds="2107.62333333333,-0.000249999999780925,122.503333333334,27.1566666666667" Label="OSIM.WebClinet" />
-    <Node Id="Owin 1.0" Category="Package" Bounds="2557.6,285.783583333334,74.5500000000002,27.1566666666667" Label="Owin 1.0" />
-    <Node Id="Respond 1.2.0" Category="Package" Bounds="0,57.1566666666671,107.75,27.1566666666667" Label="Respond 1.2.0" />
-    <Node Id="RhinoMocks 3.6.1" Category="Package" Bounds="431.385,514.410000000001,129.776666666667,27.1566666666666" Label="RhinoMocks 3.6.1" />
-    <Node Id="WebGrease 1.5.2" Category="Package" Bounds="937.638333333333,114.313333333334,124.473333333333,27.1566666666667" Label="WebGrease 1.5.2" />
-    <Node Id="bootstrap 3.0.0" Category="Package" Bounds="137.893333333333,57.156666666667,113.963333333333,27.1566666666667" Label="bootstrap 3.0.0" />
-    <Node Id="jQuery 1.10.2" Category="Package" Bounds="381.926666666667,171.47,101.896666666667,27.1566666666667" Label="jQuery 1.10.2" />
-    <Node Id="jQuery.Validation 1.11.1" Category="Package" Bounds="233.873333333333,114.313333333334,168.003333333333,27.1566666666667" Label="jQuery.Validation 1.11.1" />
-    <Node Id="nbehave.spec.nunit 0.6.2" Category="Package" Bounds="549.84,457.253333333334,172.866666666667,27.1566666666667" Label="nbehave.spec.nunit 0.6.2" />
+    <Node Id="OSIM.WebClinet" Label="OSIM.WebClinet" Category="Project" />
+    <Node Id="Antlr 3.4.1.9004" Label="Antlr 3.4.1.9004" Category="Package" />
+    <Node Id="bootstrap 3.0.0" Label="bootstrap 3.0.0" Category="Package" />
+    <Node Id="EntityFramework 6.1.1" Label="EntityFramework 6.1.1" Category="Package" />
+    <Node Id="jQuery 1.10.2" Label="jQuery 1.10.2" Category="Package" />
+    <Node Id="jQuery.Validation 1.11.1" Label="jQuery.Validation 1.11.1" Category="Package" />
+    <Node Id="Microsoft.AspNet.Identity.Core 2.1.0" Label="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package" />
+    <Node Id="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Label="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Category="Package" />
+    <Node Id="Microsoft.AspNet.Identity.Owin 2.1.0" Label="Microsoft.AspNet.Identity.Owin 2.1.0" Category="Package" />
+    <Node Id="Microsoft.AspNet.Mvc 5.2.2" Label="Microsoft.AspNet.Mvc 5.2.2" Category="Package" />
+    <Node Id="Microsoft.AspNet.Razor 3.2.2" Label="Microsoft.AspNet.Razor 3.2.2" Category="Package" />
+    <Node Id="Microsoft.AspNet.Web.Optimization 1.1.3" Label="Microsoft.AspNet.Web.Optimization 1.1.3" Category="Package" />
+    <Node Id="Microsoft.AspNet.WebPages 3.2.2" Label="Microsoft.AspNet.WebPages 3.2.2" Category="Package" />
+    <Node Id="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Label="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Category="Package" />
+    <Node Id="Microsoft.Owin 3.0.0" Label="Microsoft.Owin 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Host.SystemWeb 3.0.0" Label="Microsoft.Owin.Host.SystemWeb 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security 3.0.0" Label="Microsoft.Owin.Security 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.Cookies 3.0.0" Label="Microsoft.Owin.Security.Cookies 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.Facebook 3.0.0" Label="Microsoft.Owin.Security.Facebook 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.Google 3.0.0" Label="Microsoft.Owin.Security.Google 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Label="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.OAuth 3.0.0" Label="Microsoft.Owin.Security.OAuth 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Owin.Security.Twitter 3.0.0" Label="Microsoft.Owin.Security.Twitter 3.0.0" Category="Package" />
+    <Node Id="Microsoft.Web.Infrastructure 1.0.0.0" Label="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package" />
+    <Node Id="Modernizr 2.6.2" Label="Modernizr 2.6.2" Category="Package" />
+    <Node Id="Newtonsoft.Json 6.0.4" Label="Newtonsoft.Json 6.0.4" Category="Package" />
+    <Node Id="Owin 1.0" Label="Owin 1.0" Category="Package" />
+    <Node Id="Respond 1.2.0" Label="Respond 1.2.0" Category="Package" />
+    <Node Id="WebGrease 1.5.2" Label="WebGrease 1.5.2" Category="Package" />
+    <Node Id="OSIM.IntegrationTests" Label="OSIM.IntegrationTests" Category="Project" />
+    <Node Id="FluentNHibernate 1.4.0.0" Label="FluentNHibernate 1.4.0.0" Category="Package" />
+    <Node Id="Iesi.Collections 3.2.0.4000" Label="Iesi.Collections 3.2.0.4000" Category="Package" />
+    <Node Id="nbehave.spec.nunit 0.6.2" Label="nbehave.spec.nunit 0.6.2" Category="Package" />
+    <Node Id="NHibernate 3.3.3.4001" Label="NHibernate 3.3.3.4001" Category="Package" />
+    <Node Id="Ninject 3.2.2.0" Label="Ninject 3.2.2.0" Category="Package" />
+    <Node Id="NUnit 2.6.2" Label="NUnit 2.6.2" Category="Package" />
+    <Node Id="RhinoMocks 3.6.1" Label="RhinoMocks 3.6.1" Category="Package" />
+    <Node Id="OSIM.UnitTests" Label="OSIM.UnitTests" Category="Project" />
+    <Node Id="Iesi.Collections 3.2.0.4000" Label="Iesi.Collections 3.2.0.4000" Category="Package" />
+    <Node Id="Moq 4.2.1402.2112" Label="Moq 4.2.1402.2112" Category="Package" />
+    <Node Id="nbehave.spec.nunit 0.6.2" Label="nbehave.spec.nunit 0.6.2" Category="Package" />
+    <Node Id="NHibernate 3.3.3.4001" Label="NHibernate 3.3.3.4001" Category="Package" />
+    <Node Id="NUnit 2.6.2" Label="NUnit 2.6.2" Category="Package" />
+    <Node Id="NUnitTestAdapter 2.0.0" Label="NUnitTestAdapter 2.0.0" Category="Package" />
+    <Node Id="RhinoMocks 3.6.1" Label="RhinoMocks 3.6.1" Category="Package" />
+    <Node Id="OSIM.Core" Label="OSIM.Core" Category="Project" />
+    <Node Id="FluentNHibernate 1.4.0.0" Label="FluentNHibernate 1.4.0.0" Category="Package" />
+    <Node Id="Iesi.Collections 3.2.0.4000" Label="Iesi.Collections 3.2.0.4000" Category="Package" />
+    <Node Id="NHibernate 3.3.3.4001" Label="NHibernate 3.3.3.4001" Category="Package" />
   </Nodes>
   <Links>
-    <Link Source="FluentNHibernate 1.4.0.0" Target="NHibernate 3.3.3.4001" Category="Package Dependency" Bounds="256.952755986721,423.406503044001,18.4408462312466,28.4897813639834" />
-    <Link Source="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Target="EntityFramework 6.1.1" Category="Package Dependency" Bounds="1603.45922851563,84.313232421875,249.240478515625,31.6420745849609" />
-    <Link Source="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Target="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package Dependency" Bounds="1989.75315032691,84.3132333333335,20.3179748643749,23.2261949692453" />
-    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package Dependency" Bounds="2107.03034980796,84.3131833333336,146.526061770533,28.293794761848" />
-    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="2372.43432617188,84.3131866455078,85.815185546875,78.4301300048828" />
-    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security.Cookies 3.0.0" Category="Package Dependency" Bounds="2313.479336291,84.3131833333336,6.35709259785335,21.3735798996423" />
-    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security.OAuth 3.0.0" Category="Package Dependency" Bounds="2447.52454804207,82.7542624972053,333.483954743032,32.416464732181" />
-    <Link Source="Microsoft.AspNet.Mvc 5.2.2" Target="Microsoft.AspNet.Razor 3.2.2" Category="Package Dependency" Bounds="620.520690917969,84.3133316040039,59.095458984375,78.4318618774414" />
-    <Link Source="Microsoft.AspNet.Mvc 5.2.2" Target="Microsoft.AspNet.WebPages 3.2.2" Category="Package Dependency" Bounds="721.990734530822,84.3133333333336,20.7765295479893,23.2846504679329" />
-    <Link Source="Microsoft.AspNet.Web.Optimization 1.1.3" Target="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package Dependency" Bounds="912.563354492188,84.3133316040039,43.0790405273438,78.4359359741211" />
-    <Link Source="Microsoft.AspNet.Web.Optimization 1.1.3" Target="WebGrease 1.5.2" Category="Package Dependency" Bounds="980.814085554324,84.3133333333336,9.51519097532605,21.7542639538554" />
-    <Link Source="Microsoft.AspNet.WebPages 3.2.2" Target="Microsoft.AspNet.Razor 3.2.2" Category="Package Dependency" Bounds="657.93993358208,141.47,68.2508067806655,26.7191000883121" />
-    <Link Source="Microsoft.AspNet.WebPages 3.2.2" Target="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package Dependency" Bounds="795.559259637254,141.47,68.2508067806655,26.7191000883121" />
-    <Link Source="Microsoft.Owin 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2594.875,255.783483333333,0,21.0001" />
-    <Link Source="Microsoft.Owin.Host.SystemWeb 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2656.80964976776,198.626666666667,108.851283318671,27.7749680561461" />
-    <Link Source="Microsoft.Owin.Host.SystemWeb 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2629.49849812262,198.626666666667,162.769456782855,83.0658922413762" />
-    <Link Source="Microsoft.Owin.Security 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2494.9957538565,198.626716666667,60.5094793203903,26.4009632873056" />
-    <Link Source="Microsoft.Owin.Security 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2471.74658203125,198.626724243164,80.61279296875,83.8318023681641" />
-    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2316.724609375,141.469955444336,197.240478515625,85.7136840820313" />
-    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="2344.17239202649,141.46995,73.9482150591671,26.9212794493842" />
-    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2316.724609375,141.469955444336,237.515625,140.829208374023" />
-    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2601.10213245136,141.47,21.9718577814938,78.4899874470987" />
-    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="2511.090793951,141.47,77.0614021090746,27.0219431060394" />
-    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="2341.67814647983,141.47,196.823415087976,30.241370996559" />
-    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2626.72021484375,141.470001220703,52.74462890625,139.879669189453" />
-    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="1819.82666015625,141.470001220703,692.090576171875,94.2586059570313" />
-    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="1827.00769042969,141.470001220703,564.811401367188,28.1256866455078" />
-    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="1869.84431830177,141.47,297.83777916581,33.7097909867294" />
-    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="1816.78859968663,141.47,731.991167679179,148.538116591409" />
-    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="1405.58827654579,141.125961866069,1106.33405435147,94.0289215488517" />
-    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="1351.32238769531,141.470001220703,1040.49353027344,28.1398162841797" />
-    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="1373.26940917969,141.470001220703,794.366577148438,39.2661437988281" />
-    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="1356.38244565505,141.47,1192.28981312175,152.001659723746" />
-    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2615.73022460938,141.470001220703,202.07763671875,80.9650268554688" />
-    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="2572.26259565805,141.47,233.184084310739,29.750081781529" />
-    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="2314.18701171875,139.959533691406,475.892333984375,29.2114105224609" />
-    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2637.35888671875,141.470001220703,180.448974609375,140.910064697266" />
-    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" Bounds="2677.82202148438,141.470001220703,471.38330078125,93.0865173339844" />
-    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" Bounds="2573.17260742188,141.470001220703,532.43115234375,34.5349426269531" />
-    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="2314.20043945313,141.470001220703,791.4033203125,27.7517547607422" />
-    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Owin 1.0" Category="Package Dependency" Bounds="2640.81689453125,141.470001220703,502.756103515625,145.030944824219" />
-    <Link Source="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Target="jQuery 1.10.2" Category="Package Dependency" Bounds="432.875,84.3133333333336,1.13686837721616E-13,78.1566666666668" />
-    <Link Source="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Target="jQuery.Validation 1.11.1" Category="Package Dependency" Bounds="353.254239868109,84.3133333333336,52.3009665819988,25.9943383762763" />
-    <Link Source="NHibernate 3.3.3.4001" Target="Iesi.Collections 3.2.0.4000" Category="Package Dependency" Bounds="243.27334133167,486.608322579223,2.80313352618577E-06,21.0001" />
-    <Link Source="OSIM.Core" Target="FluentNHibernate 1.4.0.0" Category="Installed Package" Bounds="278.152274914376,366.249736376953,2.91770958489332,21.0850501933245" />
-    <Link Source="OSIM.IntegrationTests" Target="NHibernate 3.3.3.4001" Category="Installed Package" Bounds="98.7534990370675,372.29478924589,117.656316656511,82.0104147842172" />
-    <Link Source="OSIM.IntegrationTests" Target="Ninject 3.2.2.0" Category="Installed Package" Bounds="79.2733309150343,372.29478924589,1.30406601783761E-06,78.1568666666667" />
-    <Link Source="OSIM.UnitTests" Target="Moq 4.2.1402.2112" Category="Installed Package" Bounds="545.517611169299,382.189668930809,225.790709351393,72.3184308190795" />
-    <Link Source="OSIM.UnitTests" Target="NHibernate 3.3.3.4001" Category="Installed Package" Bounds="287.252471923828,382.189666748047,184.317749023438,74.0523681640625" />
-    <Link Source="OSIM.UnitTests" Target="NUnitTestAdapter 2.0.0" Category="Installed Package" Bounds="450.07929929075,382.189668930809,44.1643958987724,67.5314101191277" />
-    <Link Source="OSIM.UnitTests" Target="nbehave.spec.nunit 0.6.2" Category="Installed Package" Bounds="520.810491033966,382.189668930809,90.637187232964,69.5830899836857" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Category="Installed Package" Bounds="2031.87170806958,27.1564166666669,91.6287973746541,27.4199495964934" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Identity.Owin 2.1.0" Category="Installed Package" Bounds="2205.69726601341,27.1564166666669,72.9112904693966,26.8862813982251" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Mvc 5.2.2" Category="Installed Package" Bounds="790.388610839844,17.9052505493164,1317.23468017578,76.8628311157227" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Web.Optimization 1.1.3" Category="Installed Package" Bounds="1122.89803905697,16.5102076276058,984.725294276368,47.1389125498436" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Host.SystemWeb 3.0.0" Category="Installed Package" Bounds="2230.12670898438,18.2674388885498,570.938232421875,146.429063796997" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Facebook 3.0.0" Category="Installed Package" Bounds="2230.12670898438,20.6626281738281,323.450439453125,91.7935943603516" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Google 3.0.0" Category="Installed Package" Bounds="1764.81982421875,19.2499618530273,342.803466796875,87.7425689697266" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Category="Installed Package" Bounds="1363.91149902344,20.6477756500244,743.711791992188,92.5125102996826" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Twitter 3.0.0" Category="Installed Package" Bounds="2230.12670898438,19.7946910858154,851.08740234375,93.2803134918213" />
-    <Link Source="OSIM.WebClinet" Target="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Category="Installed Package" Bounds="587.852355957031,17.9052505493164,1519.77093505859,84.2994918823242" />
-    <Link Source="OSIM.WebClinet" Target="Modernizr 2.6.2" Category="Installed Package" Bounds="2230.12666666667,23.0915518315975,239.143297418822,37.1431889183681" />
-    <Link Source="OSIM.WebClinet" Target="Respond 1.2.0" Category="Installed Package" Bounds="104.812561035156,17.9052505493164,2002.81072998047,83.7084503173828" />
-    <Link Source="OSIM.WebClinet" Target="bootstrap 3.0.0" Category="Installed Package" Bounds="241.873825073242,17.9052505493164,1865.74946594238,83.1953582763672" />
-    <Link Source="WebGrease 1.5.2" Target="Antlr 3.4.1.9004" Category="Package Dependency" Bounds="1027.66992039424,141.47,53.3235185383951,26.0495262785715" />
-    <Link Source="WebGrease 1.5.2" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" Bounds="1061.14038085938,140.680084228516,1106.49072265625,41.1257019042969" />
-    <Link Source="jQuery.Validation 1.11.1" Target="jQuery 1.10.2" Category="Package Dependency" Bounds="345.194793549892,141.47,52.3009665819988,25.9943383762763" />
-    <Link Source="nbehave.spec.nunit 0.6.2" Target="NUnit 2.6.2" Category="Package Dependency" Bounds="636.273333333333,484.410000000001,0,21.0000000000002" />
-    <Link Source="nbehave.spec.nunit 0.6.2" Target="RhinoMocks 3.6.1" Category="Package Dependency" Bounds="537.864553639562,484.410000000001,65.1499005895544,26.5982225097404" />
+    <Link Source="jQuery.Validation 1.11.1" Target="jQuery 1.10.2" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Target="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Target="EntityFramework 6.1.1" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.AspNet.Identity.Core 2.1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security.Cookies 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Identity.Owin 2.1.0" Target="Microsoft.Owin.Security.OAuth 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Mvc 5.2.2" Target="Microsoft.AspNet.WebPages 3.2.2" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Mvc 5.2.2" Target="Microsoft.AspNet.Razor 3.2.2" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Web.Optimization 1.1.3" Target="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.Web.Optimization 1.1.3" Target="WebGrease 1.5.2" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.WebPages 3.2.2" Target="Microsoft.Web.Infrastructure 1.0.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.AspNet.WebPages 3.2.2" Target="Microsoft.AspNet.Razor 3.2.2" Category="Package Dependency" />
+    <Link Source="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Target="jQuery 1.10.2" Category="Package Dependency" />
+    <Link Source="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Target="jQuery.Validation 1.11.1" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Host.SystemWeb 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Host.SystemWeb 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Cookies 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Facebook 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Google 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.OAuth 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Owin 1.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Microsoft.Owin 3.0.0" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="Microsoft.Owin.Security.Twitter 3.0.0" Target="Microsoft.Owin.Security 3.0.0" Category="Package Dependency" />
+    <Link Source="WebGrease 1.5.2" Target="Antlr 3.4.1.9004" Category="Package Dependency" />
+    <Link Source="WebGrease 1.5.2" Target="Newtonsoft.Json 6.0.4" Category="Package Dependency" />
+    <Link Source="OSIM.WebClinet" Target="bootstrap 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Identity.EntityFramework 2.1.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Identity.Owin 2.1.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Mvc 5.2.2" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.AspNet.Web.Optimization 1.1.3" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.jQuery.Unobtrusive.Validation 3.2.2" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Host.SystemWeb 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Facebook 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Google 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.MicrosoftAccount 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Microsoft.Owin.Security.Twitter 3.0.0" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Modernizr 2.6.2" Category="Installed Package" />
+    <Link Source="OSIM.WebClinet" Target="Respond 1.2.0" Category="Installed Package" />
+    <Link Source="FluentNHibernate 1.4.0.0" Target="NHibernate 3.3.3.4001" Category="Package Dependency" />
+    <Link Source="nbehave.spec.nunit 0.6.2" Target="RhinoMocks 3.6.1" Category="Package Dependency" />
+    <Link Source="nbehave.spec.nunit 0.6.2" Target="NUnit 2.6.2" Category="Package Dependency" />
+    <Link Source="NHibernate 3.3.3.4001" Target="Iesi.Collections 3.2.0.4000" Category="Package Dependency" />
+    <Link Source="OSIM.IntegrationTests" Target="FluentNHibernate 1.4.0.0" Category="Installed Package" />
+    <Link Source="OSIM.IntegrationTests" Target="nbehave.spec.nunit 0.6.2" Category="Installed Package" />
+    <Link Source="OSIM.IntegrationTests" Target="Ninject 3.2.2.0" Category="Installed Package" />
+    <Link Source="nbehave.spec.nunit 0.6.2" Target="RhinoMocks 3.6.1" Category="Package Dependency" />
+    <Link Source="nbehave.spec.nunit 0.6.2" Target="NUnit 2.6.2" Category="Package Dependency" />
+    <Link Source="NHibernate 3.3.3.4001" Target="Iesi.Collections 3.2.0.4000" Category="Package Dependency" />
+    <Link Source="OSIM.UnitTests" Target="Moq 4.2.1402.2112" Category="Installed Package" />
+    <Link Source="OSIM.UnitTests" Target="nbehave.spec.nunit 0.6.2" Category="Installed Package" />
+    <Link Source="OSIM.UnitTests" Target="NHibernate 3.3.3.4001" Category="Installed Package" />
+    <Link Source="OSIM.UnitTests" Target="NUnitTestAdapter 2.0.0" Category="Installed Package" />
+    <Link Source="FluentNHibernate 1.4.0.0" Target="NHibernate 3.3.3.4001" Category="Package Dependency" />
+    <Link Source="NHibernate 3.3.3.4001" Target="Iesi.Collections 3.2.0.4000" Category="Package Dependency" />
+    <Link Source="OSIM.Core" Target="FluentNHibernate 1.4.0.0" Category="Installed Package" />
   </Links>
   <Categories>
-    <Category Id="Installed Package" />
-    <Category Id="Package" />
-    <Category Id="Package Dependency" />
     <Category Id="Project" />
+    <Category Id="Package" />
   </Categories>
-  <Properties>
-    <Property Id="Bounds" DataType="System.Windows.Rect" />
-    <Property Id="Expression" DataType="System.String" />
-    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
-    <Property Id="GroupLabel" DataType="System.String" />
-    <Property Id="IsEnabled" DataType="System.Boolean" />
-    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
-    <Property Id="TargetType" DataType="System.Type" />
-    <Property Id="UseManualLocation" DataType="System.Boolean" />
-    <Property Id="Value" DataType="System.String" />
-    <Property Id="ValueLabel" DataType="System.String" />
-  </Properties>
   <Styles>
     <Style TargetType="Node" GroupLabel="Project" ValueLabel="True">
       <Condition Expression="HasCategory('Project')" />

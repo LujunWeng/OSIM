@@ -1,4 +1,4 @@
-﻿using NBehave.Spec;
+﻿using NBehave.Spec.NUnit;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -9,19 +9,8 @@ using System.Threading.Tasks;
 namespace OSIM.UnitTests
 {
     [TestFixture]
-    public class Specification
+    public class Specification : SpecBase
     {
-        [TestFixtureSetUp]
-        protected virtual void Establish_context()
-        {
-        }
-        [SetUp]
-        protected virtual void Because_of()
-        {
-        }
-        [TestFixtureTearDown]
-        protected virtual void Cleanup()
-        {
-        }
+
     }
 }
