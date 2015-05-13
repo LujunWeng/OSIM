@@ -1,5 +1,6 @@
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.pdb
+D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.csprojResolveAssemblyReference.cache
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.pdb
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\FluentNHibernate.dll
@@ -8,14 +9,3 @@ D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\NHibernate.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\FluentNHibernate.xml
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\Iesi.Collections.xml
 D:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\NHibernate.xml
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\OSIM.Core.pdb
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\FluentNHibernate.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\Iesi.Collections.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\NHibernate.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\FluentNHibernate.xml
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\Iesi.Collections.xml
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\bin\Debug\NHibernate.xml
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.csprojResolveAssemblyReference.cache
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.Core\obj\Debug\OSIM.Core.pdb

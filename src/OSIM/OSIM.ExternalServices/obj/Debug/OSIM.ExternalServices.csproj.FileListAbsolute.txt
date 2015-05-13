@@ -4,9 +4,3 @@ D:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\bin\OSIM.ExternalServices.pdb
 D:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.csprojResolveAssemblyReference.cache
 D:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.dll
 D:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.pdb
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\bin\OSIM.ExternalServices.dll.config
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\bin\OSIM.ExternalServices.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\bin\OSIM.ExternalServices.pdb
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.csprojResolveAssemblyReference.cache
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.dll
-F:\DevProjects\OSIM\src\OSIM\OSIM.ExternalServices\obj\Debug\OSIM.ExternalServices.pdb

@@ -11,16 +11,3 @@ D:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.Properties.
 D:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.csproj.GenerateResource.Cache
 D:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.exe
 D:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.pdb
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\bin\Debug\OSIM.WinClient.exe.config
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\bin\Debug\OSIM.WinClient.exe
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\bin\Debug\OSIM.WinClient.pdb
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.csprojResolveAssemblyReference.cache
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\MainWindow.baml
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\MainWindow.g.cs
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\App.g.cs
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient_MarkupCompile.cache
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.g.resources
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.Properties.Resources.resources
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.csproj.GenerateResource.Cache
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.exe
-F:\DevProjects\OSIM\src\OSIM\OSIM.WinClient\obj\Debug\OSIM.WinClient.pdb
