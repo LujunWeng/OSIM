@@ -19,6 +19,7 @@ namespace OSIM.Core.Persistence
     {
         private ISessionFactory _sessionFactory;
 
+        public List<ItemType> GetAll { get; set; }
         public ItemTypeRepository(ISessionFactory sessionFactory)
         {
             _sessionFactory = sessionFactory;
